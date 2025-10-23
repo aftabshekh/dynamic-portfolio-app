@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dynamic Portfolio App
 
 A **React-based dynamic portfolio generator** where users can select a template, fill out a multi-section form, and generate a professional portfolio. The submitted data is displayed as a profile card, and users can view a full portfolio page rendered with the chosen design template.
@@ -84,3 +85,6 @@ dynamic-portfolio-app/
 ├── screenshots/
 ├── package.json
 └── README.md
+=======
+
+>>>>>>> d3c10033534eddac048a7af349214aa21da5e4b7
