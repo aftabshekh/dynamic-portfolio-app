@@ -60,31 +60,17 @@ Here's what the project looks like:
 
 -* Project Structure
 dynamic-portfolio-app/
-│
 ├── public/
 ├── src/
-│   ├── components/
-│   │   ├── HeroSection.js
-│   │   ├── AboutMe.js
-│   │   ├── Skills.js
-│   │   ├── Services.js
-│   │   ├── Portfolio.js
-│   │   ├── Testimonials.js
-│   │   ├── Blog.js
-│   │   ├── Contact.js
-│   │   └── Footer.js
-│   ├── pages/
-│   │   ├── TemplateSelection.js
-│   │   ├── ProfileForm.js
-│   │   ├── ProfileList.js
-│   │   └── PortfolioPage.js
-│   ├── api/
-│   │   └── portfolioAPI.js
+│   ├── components/       # All reusable UI components
+│   ├── pages/            # Pages like form, listing, portfolio
+│   ├── api/              # API calls
 │   ├── App.js
 │   └── index.js
-├── screenshots/
+├── screenshots/          # Screenshots for README
 ├── package.json
 └── README.md
+
 =======
 
 >>>>>>> d3c10033534eddac048a7af349214aa21da5e4b7
