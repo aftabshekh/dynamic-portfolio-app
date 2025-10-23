@@ -71,6 +71,4 @@ dynamic-portfolio-app/
 ├── package.json
 └── README.md
 
-=======
 
->>>>>>> d3c10033534eddac048a7af349214aa21da5e4b7
