@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 # Dynamic Portfolio App
 
 A **React-based dynamic portfolio generator** where users can select a template, fill out a multi-section form, and generate a professional portfolio. The submitted data is displayed as a profile card, and users can view a full portfolio page rendered with the chosen design template.
-
----
 
 ## 🔹 Objective
 Build a React app where users can:
@@ -12,7 +10,6 @@ Build a React app where users can:
 3. See their profile displayed as a card.
 4. View a dynamic portfolio page generated using the selected template.
 
----
 ## 🔹 Features
 - **Template Selection:** Choose between 2 professional portfolio templates before filling the form.
 - **Multi-section Form:**  
@@ -26,11 +23,6 @@ Build a React app where users can:
   - **Contact:** Message, Email, Phone
 - **Profile Card Listing:**  
   After submission, displays a profile card with Name, Role, Bio, Skills, and a "View Portfolio" button.
-  
-- **Portfolio Page:**  
-  - Accessible via `/portfolio/:id`  
-  - Renders the selected template with all submitted data using sections:  
-    `<HeroSection />`, `<AboutMe />`, `<Skills />`, `<Services />`, `<Portfolio />`, `<Testimonials />`, `<Blog />`, `<Contact />`, `<Footer />`
 
 - **Dynamic API Integration:**  
   - **POST API:** Store form-submitted portfolio data.  
@@ -39,8 +31,7 @@ Build a React app where users can:
 
 - **Additional Features:**  
   - Edit profile  
-  - Filter by skills or role  
-
+  
 - **Technologies Used
 Frontend: React.js, HTML5, CSS3, JavaScript
 Backend/API: Node.js / Express.js (or your API endpoint)
@@ -60,19 +51,17 @@ Here's what the project looks like:
 dynamic-portfolio-app/
 ├── public/
 │   └── index.html
-│
 ├── src/
-│   ├── components/     # Reusable UI parts (Header, Footer, Cards)
-│   ├── pages/          # Full pages (Home, Portfolio, Contact)
-│   ├── api/            # API calls (axios/fetch)
-│   ├── assets/         # Images, icons, logos
-│   ├── styles/         # CSS or Tailwind files
+│   ├── api/          # API calls (axios/fetch)
+│   ├── assets/       # Images, icons, logos
+│   ├── components/   # Reusable UI parts (Header, Footer, Cards)
+│   ├── pages/        # Full pages (Home, Portfolio, Contact)
+│   ├── styles/       # CSS or Tailwind files
 │   ├── App.js
 │   └── index.js
-│
-├── screenshots/        # For README images
-├── package.json
+├── screenshots/      # For README images
 ├── .gitignore
+├── package.json
 └── README.md
 
 
