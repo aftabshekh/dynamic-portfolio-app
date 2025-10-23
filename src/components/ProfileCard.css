@@ -1,0 +1,102 @@
+.profile-card {
+  background-color: #fde047; /* Lighter yellow for the card */
+  border-radius: 16px;
+  padding: 1.5rem;
+  width: 300px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  text-align: center;
+  transition: all 0.3s ease;
+}
+
+.profile-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.card-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  object-fit: cover;
+  margin-bottom: 0.5rem;
+  background: #eee;
+}
+
+.card-name {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #1f2937;
+  margin: 0.5rem 0 0.25rem;
+}
+
+.card-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #4b5563;
+  margin-bottom: 0.5rem;
+}
+
+.card-location {
+  font-size: 0.9rem;
+  color: #4b5563;
+  margin-bottom: 1rem;
+}
+
+.card-rating {
+  color: #f59e0b;
+  margin-bottom: 1rem;
+}
+
+.card-bio {
+  font-size: 0.85rem;
+  color: #374151;
+  margin-bottom: 1rem;
+  height: 60px; /* Fixed height to align cards */
+  overflow: hidden;
+}
+
+.card-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.card-buttons a {
+  text-decoration: none;
+}
+
+.card-button {
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.view-button {
+  background-color: #1f2937;
+  color: #ffffff;
+}
+.view-button:hover {
+  background-color: #374151;
+}
+
+.edit-button {
+  background-color: transparent;
+  color: #1f2937;
+  border: 1px solid #1f2937;
+}
+.edit-button:hover {
+  background-color: #fef9c3;
+}
+
+.delete-button {
+  background-color: #dc2626;
+  color: #ffffff;
+}
+.delete-button:hover {
+  background-color: #b91c1c;
+}

@@ -1,0 +1,159 @@
+{
+  "messages": [
+    {
+      "id": "1761208785590",
+      "profileId": "9373",
+      "name": "Anna",
+      "email": "anna@123gmail.com",
+      "message": "hello ",
+      "timestamp": "2025-10-23T08:39:45.590Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "9373",
+      "template": "templateA",
+      "hero": {
+        "name": "Anna",
+        "title": "Software Engineer",
+        "tagline": "just do it",
+        "profileImage": "https://images.unsplash.com/photo-1696453424412-fe6ea4b2db54?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHByb2Zlc3Npb25hbCUyMHdvbWFufGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=900"
+      },
+      "about": {
+        "bio": "I’m a Full Stack MERN Developer who enjoys building dynamic, responsive, and user-friendly web applications. I love solving complex problems, optimizing performance, and creating seamless user experiences. Apart from web development, I regularly practice Data Structures and Algorithms in Java to sharpen my logic and coding skills. I’m always eager to learn new technologies and take on challenging projects that push my creativity and skills to the next level.",
+        "email": "anna@123gmail.com",
+        "phone": "+91 9876543210",
+        "location": "Pune, India",
+        "socials": {}
+      },
+      "skills": [
+        "React",
+        "Node.js",
+        "CSS"
+      ],
+      "services": [
+        {
+          "title": "Web App Deployment & Optimization",
+          "description": "I deploy full-stack applications on platforms like Vercel, Render, and AWS. I also optimize performance, handle environment configurations, and ensure smooth CI/CD workflows."
+        },
+        {
+          "title": "Database Design & Management",
+          "description": "I specialize in designing optimized database schemas and managing data efficiently using MongoDB and Mongoose. I ensure data integrity, scalability, and high performance"
+        },
+        {
+          "title": "Portfolio & Personal Website Development",
+          "description": "I build stunning personal portfolios and business websites with a professional design, SEO optimization, and full responsiveness across devices."
+        }
+      ],
+      "portfolio": [
+        {
+          "title": "Task Manager App",
+          "image": "https://images.unsplash.com/photo-1556761175-4b46a572b786",
+          "description": "A React and Node.js-based task tracking system to manage daily tasks efficiently. Supports authentication, task prioritization, and CRUD operations. Built with Express and MongoDB for smooth API handling."
+        },
+        {
+          "title": "Portfolio Website",
+          "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+          "description": "A personal developer portfolio built with React.js and Tailwind CSS. Highlights projects, skills, and services with smooth animations, responsive design, and a modern aesthetic."
+        },
+        {
+          "title": "Real Estate Property Management App",
+          "image": "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
+          "description": "A full-stack MERN application that allows users to view, filter, and manage property listings. Includes advanced features like add/edit property, real-time search, and modal-based property details. Integrated with MongoDB backend and deployed on Vercel."
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "“Collaborating on this project was a fantastic experience! The developer showed great attention to detail, excellent communication, and delivered a high-quality website that exceeded our expectations.”",
+          "author": "Aditya Verma, Computer Science Student"
+        }
+      ],
+      "blog": {
+        "title": "",
+        "summary": ""
+      },
+      "contact": {
+        "message": "Get in touch!",
+        "email": "anna@123gmail.com",
+        "phone": "91189800022",
+        "socials": {
+          "linkedin": "https://www.linkedin.com/in/anna-devprofile",
+          "github": "https://github.com/anna-codes",
+          "twitter": "https://twitter.com/anna_codes"
+        }
+      }
+    },
+    {
+      "id": "847c",
+      "template": "templateA",
+      "hero": {
+        "name": "Rohan Mehra",
+        "title": "Full Stack Developer",
+        "tagline": "Crafting modern web experiences with clean code and creative solutions.",
+        "profileImage": "https://images.unsplash.com/photo-1531891437562-4301cf35b7e4?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fG1lbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=900"
+      },
+      "about": {
+        "bio": "Hi, I’m Rohan Mehra, a results-driven software engineer with expertise in full-stack web development and cloud technologies. I enjoy crafting scalable web applications, solving challenging problems, and exploring emerging tech to deliver innovative solutions.",
+        "email": "rohan.mehra92@example.com",
+        "phone": "9876543210",
+        "location": "Bengaluru, India",
+        "socials": {}
+      },
+      "skills": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Java",
+        "Data Structures & Algorithms",
+        "JavaScript"
+      ],
+      "services": [
+        {
+          "title": "Web Application Development",
+          "description": "Building responsive and high-performance web applications using React, Node.js, and MongoDB, tailored to your business needs."
+        },
+        {
+          "title": "API Design & Integration",
+          "description": "Designing scalable RESTful APIs and integrating third-party services for seamless functionality and enhanced user experience."
+        },
+        {
+          "title": "UI/UX Design Consulting",
+          "description": "Crafting intuitive and visually appealing interfaces with a focus on user experience and accessibility."
+        }
+      ],
+      "portfolio": [
+        {
+          "title": "TaskMaster Pro",
+          "image": "https://plus.unsplash.com/premium_photo-1683309561244-53ed64952752?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dGFza3N8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&q=60&w=900",
+          "description": "A productivity web app that allows users to create, track, and manage tasks with deadlines, notifications, and analytics to boost efficiency."
+        },
+        {
+          "title": "ShopEase Online",
+          "image": "https://plus.unsplash.com/premium_photo-1664201890375-f8fa405cdb7d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZSUyMGNvbW1lcmNlfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=900",
+          "description": "An e-commerce platform with real-time inventory updates, secure payment integration, and personalized recommendations for users.\n"
+        },
+        {
+          "title": "TravelBuddy Planner",
+          "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+          "description": "A travel planning web app that allows users to create itineraries, discover attractions, and share travel plans with friends."
+        }
+      ],
+      "testimonials": [
+        {
+          "quote": "\"Working with this developer was a game-changer for our project. Highly recommended!\"",
+          "author": "Jaxon Merriweather"
+        }
+      ],
+      "blog": {
+        "title": "",
+        "summary": ""
+      },
+      "contact": {
+        "message": "Get in touch!",
+        "email": "",
+        "phone": ""
+      }
+    }
+  ]
+}

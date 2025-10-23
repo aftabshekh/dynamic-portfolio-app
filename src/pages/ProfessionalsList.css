@@ -1,0 +1,43 @@
+.professionals-header {
+  background-color: #facc15; /* A strong yellow */
+  padding: 2rem;
+  text-align: center;
+  color: #1f2937;
+}
+
+.professionals-header h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.professionals-header p {
+  font-size: 1.1rem;
+  margin: 0.5rem 0 0;
+}
+
+.filter-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: #fff;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.search-bar {
+  width: 40%;
+  padding: 0.75rem 1rem;
+  font-size: 1rem;
+  border: 1px solid #d1d5db;
+  border-radius: 8px;
+}
+
+.profile-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 2rem;
+  background-color: #f9fafb; /* Light gray background */
+}
