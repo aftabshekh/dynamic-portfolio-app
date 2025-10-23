@@ -57,18 +57,22 @@ Here's what the project looks like:
 ![Conatct-me](screenshots/Contact-me.png)
 
 
-
--* Project Structure
 dynamic-portfolio-app/
 ├── public/
+│   └── index.html
+│
 ├── src/
-│   ├── components/       # All reusable UI components
-│   ├── pages/            # Pages like form, listing, portfolio
-│   ├── api/              # API calls
+│   ├── components/     # Reusable UI parts (Header, Footer, Cards)
+│   ├── pages/          # Full pages (Home, Portfolio, Contact)
+│   ├── api/            # API calls (axios/fetch)
+│   ├── assets/         # Images, icons, logos
+│   ├── styles/         # CSS or Tailwind files
 │   ├── App.js
 │   └── index.js
-├── screenshots/          # Screenshots for README
+│
+├── screenshots/        # For README images
 ├── package.json
+├── .gitignore
 └── README.md
 
 
