@@ -41,21 +41,6 @@ Build a React app where users can:
   - Edit profile  
   - Filter by skills or role  
 
-- **Technologies Used
-Frontend: React.js, HTML5, CSS3, JavaScript
-Backend/API: Node.js / Express.js (or your API endpoint)
-Database: MongoDB / Firebase (if used)
-Tools: Git, VS Code, Postman
-
-
-## Screenshots
-Here's what the project looks like:
-![Home-Page](screenshots/home-page.png)
-![Create Profile](screenshots/create-profile.png)
-![View-profile](screenshots/view-profile.png)
-![Edit-profile](screenshots/Edit-profile.png)
-![Conatct-me](screenshots/Contact-me.png)
-
 
 dynamic-portfolio-app/
 ├── public/
@@ -74,5 +59,23 @@ dynamic-portfolio-app/
 ├── package.json
 ├── .gitignore
 └── README.md
+
+
+- **Technologies Used
+Frontend: React.js, HTML5, CSS3, JavaScript
+Backend/API: Node.js / Express.js (or your API endpoint)
+Database: MongoDB / Firebase (if used)
+Tools: Git, VS Code, Postman
+
+
+## Screenshots
+Here's what the project looks like:
+![Home-Page](screenshots/home-page.png)
+![Create Profile](screenshots/create-profile.png)
+![View-profile](screenshots/view-profile.png)
+![Edit-profile](screenshots/Edit-profile.png)
+![Conatct-me](screenshots/Contact-me.png)
+
+
 
 
